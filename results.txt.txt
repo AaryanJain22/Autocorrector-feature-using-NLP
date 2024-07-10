@@ -1,0 +1,28 @@
+aaryan13@hp-pavilion14:~/ml$ python3 autocorrector.py 
+----------
+Type a word to check: alie
+----------
+word 0: alive, probability 0.000110
+word 1: alice, probability 0.014590
+word 2: lie, probability 0.000073
+aaryan13@hp-pavilion14:~/ml$ python3 autocorrector.py 
+----------
+Type a word to check: rder
+----------
+word 0: order, probability 0.000110
+aaryan13@hp-pavilion14:~/ml$ python3 autocorrector.py 
+----------
+Type a word to check: rop
+----------
+word 0: top, probability 0.000293
+word 1: row, probability 0.000073
+word 2: drop, probability 0.000037
+word 3: oop, probability 0.000256
+word 4: pop, probability 0.000037
+aaryan13@hp-pavilion14:~/ml$ python3 autocorrector.py 
+----------
+Type a word to check: doke
+----------
+word 0: done, probability 0.000549
+word 1: woke, probability 0.000037
+word 2: doze, probability 0.000037
